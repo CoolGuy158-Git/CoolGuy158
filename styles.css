@@ -173,8 +173,8 @@ button:active {
     .text-container1,
     .text-container2,
     .text-container3 {
-        max-width: 95%;      
-        width: 90%;
+        max-width: 85%;      
+        width: 80%;
         margin: 10px 0;
     }
     .phar1 h1 { font-size: 32px; }
