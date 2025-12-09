@@ -164,12 +164,15 @@ button:active {
     }
 
     .phar2 {
-        width: fit-content;         
-		max-width: 95vw;            
-		padding: 20px;               
-		margin: 0 auto;     
-        flex-direction: column;
-        padding: 15px;
+    width: fit-content;         
+    max-width: 95vw;            
+    padding: 15px;               
+    margin: 0 auto;     
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     }
 
     .text-container1,
